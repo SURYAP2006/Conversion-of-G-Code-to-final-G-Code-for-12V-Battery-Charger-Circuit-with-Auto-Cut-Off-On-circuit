@@ -42,6 +42,7 @@ By systematically adding these codes at appropriate sections, the CNC controller
 # EXPECTED OUTPUT:
 ## Auto leveller
 ### Engraving G Code
+```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
 ( C:\COPPERCAM2\CopperCAM.iso created 19/09/2025 at 16:19 )
@@ -4339,6 +4340,7 @@ G00 X00 Y00
 M5
 M2
 %
+```
 
 ### Engraving G Code
 ```
