@@ -5208,13 +5208,9 @@ M02
 
 ```
 ### Drill G Code
-%
-( CopperCAM - 29/07/2019 / ISO-Mill Output )
-( C:\COPPERCAM2\CopperCAM.iso created 19/09/2025 at 16:17 )
-( Workpiece dimensions: 32.69 x 27.93 x 0.1 mm )
+```
 G21 G40 G54
 G80 G90 G94
-( Tool #3 "Basic Drill" / Diameter 0.8 mm )
 T3 M06
 M03 S12000
 M07
@@ -5310,15 +5306,12 @@ M09
 M05
 M02
 %
-
+```
 ### Cut G Code
-%
-( CopperCAM - 29/07/2019 / ISO-Mill Output )
-( C:\COPPERCAM2\CopperCAM.iso created 19/09/2025 at 16:20 )
-( Workpiece dimensions: 32.69 x 27.93 x 0.1 mm )
+
+```
 G21 G40 G54
 G80 G90 G94
-( Tool #2 "Basic Cutter" / Diameter 3 mm )
 T2 M06
 M03 S12000
 M07
@@ -5334,6 +5327,6 @@ M09
 M05
 M02
 %
-
+```
 # RESULT:
 Thus, the G code of 12V-Battery-Charger-Circuit-with-Auto-Cut-Off-On-circuitt were successfully converted into final CNC G-Code for accurate and high-quality PCB engraving, drilling, and cutting using the CNC machine.
